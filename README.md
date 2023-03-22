@@ -1,5 +1,6 @@
-                                MyBlogWebsite
-================================================================================
+--------
+                                   MyBlogWebsite
+--------
 
 MyBlogWebsite is a modern and elegant web application for creating and sharing blog posts. The application is built with HTML, CSS, JavaScript, and a popular backend framework, and is optimized for performance, accessibility, and user experience.
 
